@@ -1,4 +1,7 @@
 .sidebar{
   float:left;
-  border:1px solid blue;
+  border-right:1px solid #0099ff;
+}
+#header{
+  border:1px solid #bbbbbb;
 }
