@@ -1,6 +1,7 @@
-.sidebar{
+.nav-sidebar {
   float:left;
   border-right:1px solid #0099ff;
+  margin-left: -100%;
 }
 #header{
   border:1px solid #bbbbbb;
@@ -28,4 +29,12 @@
 
 .prb{
   background-color: rgba(221, 206, 242, .5);
+}
+
+body{
+  font-family:helvetica;
+}
+li.rightnav
+{
+  float:right;
 }
