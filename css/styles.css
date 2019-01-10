@@ -3,6 +3,7 @@
   border-right:1px solid #0099ff;
   margin-left: -100%;
 }
+
 #header{
   border:1px solid #bbbbbb;
   margin-left: 1px;
@@ -41,6 +42,10 @@ li.rightnav
 {
   float:right;
 }
+input.rightnav
+{
+  float:right;
+}
 
 img {
   width: 100%;
@@ -50,4 +55,16 @@ img {
 .lines {
   border-top: 1px solid black;
   padding-top:1px;
+}
+.picleft {
+  float: left;
+  width: 35%;
+  height: 35%;
+  margin: 5px;
+}
+.picright {
+  float: right;
+  width: 35%;
+  height: 35%;
+  margin: 5px;
 }
