@@ -5,3 +5,11 @@
 #header{
   border:1px solid #bbbbbb;
 }
+
+.marginfix{
+  margin:-15px;
+}
+
+.panel-primary .pt{
+  background-color:#b4f2af;
+}
