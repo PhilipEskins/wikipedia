@@ -11,8 +11,18 @@
 }
 
 .marginfix{
-  margin:-15px;
-  padding-bottom: 5px;
+  margin: -1em;
+  padding-bottom: 0.05em;
+}
+
+.row.no-gutters {
+   margin-right: 0;
+   margin-left: 0;
+}
+.row.no-gutters > [class^="col-"],
+.row.no-gutters > [class*=" col-"] {
+   padding-right: 0;
+   padding-left: 0;
 }
 
 .top{
