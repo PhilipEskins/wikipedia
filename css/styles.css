@@ -11,9 +11,21 @@
 }
 
 .panel-primary .pt{
-  background-color:#b4f2af;
+  background-color:#cef2e0;
 }
 
 .panel-primary .rt {
   background-color: #dda1a1;
+}
+
+.panel-title{
+  color:black;
+}
+
+.panel-primary .prt {
+  background-color: #ddcef2;
+}
+
+.prb{
+  background-color: rgba(221, 206, 242, .5);
 }
